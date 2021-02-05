@@ -1,0 +1,40 @@
+body {
+    background: #171717;
+    font-size:20px;
+}
+.post-inst {
+    background: white;
+    width: 500px;
+    height: 700px;
+    margin: auto;
+    position: relative;
+    padding: 0px;
+}
+
+.post-header{
+    margin: 0%;
+}
+
+.header-text {
+    position: absolute;
+    top: 0px;
+    left: 10%;
+    width: 50px;
+    text-align: center;
+}
+
+.header-img2{
+    position: absolute;
+    top: 0px;
+    right: 1%;
+    width: 50px;
+    text-align: center;
+    margin: 0%;
+}
+
+.footer-img3{
+    position: absolute;
+    top: 460px;
+    right: 1%;
+    width: 60px;
+}
